@@ -1,6 +1,4 @@
 ## Movie_Rating_Analysis
-A movie rating analysis that identifies trends amongst a dataset of 5000 movies. 
-
 A data analysis project that explores and visualizes trends in movie ratings using a dataset of 5000+ movies. 
 This project leverages Python libraries to analyze metrics such as average ratings, popularity, genres, etc.
 
